@@ -24,7 +24,7 @@ This project demonstrates stock price prediction using Long Short-Term Memory (L
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/stock-prediction-lstm.git
+git clone https://github.com/Nizar04/LSTM-Stock-Prediction.git
 cd stock-prediction-lstm
 ```
 

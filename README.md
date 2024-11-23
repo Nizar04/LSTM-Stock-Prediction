@@ -62,4 +62,4 @@ Run the Jupyter notebook or Python script to:
 Stock predictions are speculative. Always conduct your own research before making investment decisions.
 
 ## License
-[Choose an appropriate license, e.g., MIT]
+ MIT
